@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "clf19908484",
+    "database": "userlist",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "clf19908484",
+    "database": "userlist",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "clf19908484",
+    "database": "userlist",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
